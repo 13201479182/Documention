@@ -1,0 +1,19 @@
+{
+  "recommendations": [
+    // 工具类插件
+    "ms-ceintl.vscode-language-pack-zh-hans", // 1. Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code
+    "vscode-icons-team.vscode-icons", // 2. vscode-icons
+    "alefragnani.project-manager", // 3. Project Manager
+    "gruntfuggly.todo-tree", // 4. Todo Tree
+    "eamodio.gitlens", // 5. GitLens — Git supercharged
+    "editorconfig.editorconfig", // 6. EditorConfig for VS Code
+    // Markdown插件
+    "bierner.markdown-preview-github-styles", // 1. Markdown Preview Github Styling
+    "bierner.markdown-emoji", // 2. Markdown Emoji
+    "bierner.emojisense", // 3. :emojisense:
+    "bierner.markdown-checkbox", // 4. Markdown Checkboxes
+    "bierner.markdown-footnotes", // 5. Markdown Footnotes
+    "bierner.markdown-mermaid", // 6. Markdown Preview Mermaid Support
+    "mervin.markdown-formatter", // 7. markdown-formatter
+  ]
+}
