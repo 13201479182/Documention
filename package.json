@@ -1,0 +1,15 @@
+{
+  "name": "documentation",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "preinstall": "node .vscode/install.vsix.js",
+    "commit": "git pull && gitmoji -c && git push"
+  },
+  "devDependencies": {
+    "gitmoji-cli": "^8.0.0"
+  },
+  "author": "liuhuiyuan",
+  "license": "ISC"
+}
