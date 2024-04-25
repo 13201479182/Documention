@@ -18,6 +18,7 @@ const plugins = [
     'bierner.markdown-footnotes',                   // 5. Markdown Footnotes
     'bierner.markdown-mermaid',                     // 6. Markdown Preview Mermaid Support
     'mervin.markdown-formatter',                    // 7. markdown-formatter
+    'davidanson.vscode-markdownlint',               // 8. markdownlint
 ];
 
 function installPlugins(installedPlugins) {

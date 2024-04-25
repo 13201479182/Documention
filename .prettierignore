@@ -1,7 +1,0 @@
-# Ignore folder:
-.vscode
-
-# Ignore all files:
-# **/*.js
-# **/*.json
-# **/*.cjs

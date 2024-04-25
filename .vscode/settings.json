@@ -8,8 +8,7 @@
       "comments": true,
       "strings": true
     },
-    "editor.defaultFormatter": "mervin.markdown-formatter"
+    "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
   },
-  "markdownFormatter.formatTable": true,
   "editor.formatOnSave": true
 }
